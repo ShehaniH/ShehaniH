@@ -1,3 +1,4 @@
+![logo](https://github.com/ShehaniH/ShehaniH/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shehani Hansaji</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
