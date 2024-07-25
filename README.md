@@ -31,7 +31,7 @@
 
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ShehaniH&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehaniH&show_icons=true&locale=en&layout=compact" alt="ShehaniH" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehanih&show_icons=true&locale=en&layout=compact" alt="shehanih" /></p>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehaniH&theme=light&hide_border=false" /> 
 </td>
 
