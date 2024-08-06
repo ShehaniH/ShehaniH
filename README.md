@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehani Hansaji</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehanih&label=Profile%20views&color=0e75b6&style=flat" alt="shehanih" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shehanih&label=Profile%20views&color=0e75b6&style=flat" alt="shehanih" /> </p>
 
 - 🌱 I’m currently learning **mern stack,Java,Python,**
 
